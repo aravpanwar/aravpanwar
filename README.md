@@ -1,1 +1,2 @@
-contact: aravpanwar@vespertil.com
+- Contact: [contact@aravpanwar.com](mailto:contact@aravpanwar.com)
+- Collaboration: [collab@aravpanwar.com](mailto:collab@aravpanwar.com)
